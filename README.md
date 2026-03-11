@@ -5,8 +5,7 @@
 
 
 ###
-<p align="left">I am a third-year Computer Engineering student currently expanding my knowledge in front-end and back-end development.<br><br>I enjoy building projects that combine clean design, functionality and good user experience.<br><br>I am currently looking for internship opportunities, preferably as a Front-End Developer, although I am always eager to learn new technologies and adapt to the needs of the team. You can look my <a href="">resume</a> and visit my <a href="https://arantxa2407.github.io/portafolio/" target="_blank">portfolio</a></p>
-
+<p align="left">I am a third-year Computer Engineering student currently expanding my knowledge in front-end and back-end development.<br><br>I enjoy building projects that combine clean design, functionality and good user experience.<br><br>I am currently looking for internship opportunities, preferably as a Front-End Developer, although I am always eager to learn new technologies and adapt to the needs of the team. You can look my <a href="">resume</a>.</p>  
 ###
 
 <h4 align="left">Languages</h4>
