@@ -41,8 +41,6 @@ I am currently looking for **Software Engineering internship opportunities**, pr
   <img width="12" />
  <img src="https://cdn.simpleicons.org/php/777BB4" height="30" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/rstudioide/75AADB" height="30" alt="rstudio logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
 </div>
